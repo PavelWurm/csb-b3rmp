@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://pavelwurm.github.io/csb-b3rmp/static/css/main.26e7e741.chunk.css",
-    "main.js": "https://pavelwurm.github.io/csb-b3rmp/static/js/main.d5721ba6.chunk.js",
-    "main.js.map": "https://pavelwurm.github.io/csb-b3rmp/static/js/main.d5721ba6.chunk.js.map",
+    "main.js": "https://pavelwurm.github.io/csb-b3rmp/static/js/main.67de0a63.chunk.js",
+    "main.js.map": "https://pavelwurm.github.io/csb-b3rmp/static/js/main.67de0a63.chunk.js.map",
     "runtime-main.js": "https://pavelwurm.github.io/csb-b3rmp/static/js/runtime-main.129f5260.js",
     "runtime-main.js.map": "https://pavelwurm.github.io/csb-b3rmp/static/js/runtime-main.129f5260.js.map",
     "static/js/2.e15abc32.chunk.js": "https://pavelwurm.github.io/csb-b3rmp/static/js/2.e15abc32.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.129f5260.js",
     "static/js/2.e15abc32.chunk.js",
     "static/css/main.26e7e741.chunk.css",
-    "static/js/main.d5721ba6.chunk.js"
+    "static/js/main.67de0a63.chunk.js"
   ]
 }
